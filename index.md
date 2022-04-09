@@ -23,3 +23,4 @@ print 'yes'
 
 
 ## Header 2
+[Lab Report 1](https://erhuang623.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
