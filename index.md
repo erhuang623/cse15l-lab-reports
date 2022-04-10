@@ -1,6 +1,6 @@
 # Header 1
 
-[Link](https://erhuang623.github.io/cse15l-lab-reports/)
+We will be using [Autograder](https://erhuang623.github.io/cse15l-lab-reports/)
 
 ![Image](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg)
 1. *Three*
