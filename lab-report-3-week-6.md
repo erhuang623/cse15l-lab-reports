@@ -25,7 +25,7 @@ This image shows git commands running on the remote server.
 
 ![Image](gitCommands.png)
 
-This is the commit [History]()
+This is the commit [History](https://github.com/erhuang623/markdown-parser/commit/7ecd5945f72664c52dd75b222eee2669df81c5f0)
 
 ## Copy whole directories with scp -r
 We can use the command
